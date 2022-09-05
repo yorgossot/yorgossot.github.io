@@ -6,7 +6,7 @@ subtitle: <a href='https://www.entropicalabs.com/'>Entropica Labs</a>
 
 profile:
   align: right
-  image: yorgos_prof.png
+  image: cropped_iconfdf3e0.png
   image_circular: true # crops the image to make it circular
   address: >
     <p> <center> 🏠 Singapore </center> </p>
