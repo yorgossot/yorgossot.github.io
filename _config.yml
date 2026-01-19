@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: yorgossot # your GitHub user name
-gitlab_username: yorgossot # your GitLab user name
+gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: ystrpls # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -84,8 +84,8 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: >
-  Do not hesitate to send me an email to discuss Quantum Computing or to share a bad joke.
+contact_note: #>
+#Do not hesitate to send me an email to discuss or to share a bad joke.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
